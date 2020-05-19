@@ -1,0 +1,16 @@
+*{
+  font-family: 'Oswald', sans-serif;
+}
+
+header{
+  background: #29211E;
+}
+.header_border{
+  border-bottom: 1px solid white;  
+}
+header .nav_text{
+  color:white ;
+}
+header .menu_color{
+  color:#fec946;
+}
